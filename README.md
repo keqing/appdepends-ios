@@ -1,5 +1,5 @@
 # 关于
-本仓库旨在搜集热门APP，列举其所依赖和使用的开源库。可供大家在开发iOS应用时参考，了解业内开发技术趋势和流行技术框架。  更多 iOS 开源精选，可以参考 [Awehunt - iOS](http://awehunt.com/?tnid=5af1c0bb7b4fac67bf3af2b5)
+本仓库旨在搜集热门APP，列举其所依赖和使用的开源库。可供大家在开发iOS应用时参考，了解业内开发技术趋势和流行技术框架。  更多 iOS 开源精选，可以参考 [Awehunt - iOS](https://awehunt.com/?tnid=5af1c0bb7b4fac67bf3af2b5)
 
 # 内容
 - [工具](#工具)
