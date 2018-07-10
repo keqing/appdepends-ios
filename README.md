@@ -1,10 +1,4 @@
-<div align="center">
-	<img width="480" src="media/logo.svg" alt="AppDepends">
-	<p>本仓库旨在搜集热门APP，列举其所依赖和使用的开源库。</p>
-	<p>更多 iOS 开源精选： <a href="https://awehunt.com/?tnid=5af1c0bb7b4fac67bf3af2b5">Awehunt - iOS</a>
-	</p>
-	<br>
-</div>
+<div align="center">  <img width="480" src="media/logo.svg" alt="AppDepends"><br><br>  <p>本仓库旨在搜集热门APP，列举其所依赖和使用的开源库。</p>  <p>更多 iOS 开源精选： <a href="https://awehunt.com/?tnid=5af1c0bb7b4fac67bf3af2b5">Awehunt - iOS</a></p>  </div>
 
 # 内容
 - [工具](#工具)
