@@ -1,6 +1,11 @@
-# 关于
-本仓库旨在搜集热门APP，列举其所依赖和使用的开源库。可供大家在开发iOS应用时参考，了解业内开发技术趋势和流行技术框架。
-更多 iOS 开源精选，可以参考 [Awehunt - iOS](https://awehunt.com/?tnid=5af1c0bb7b4fac67bf3af2b5)
+#
+<div align="center">
+	<img width="480" src="media/logo.svg" alt="AppDepends">
+	<p>本仓库旨在搜集热门APP，列举其所依赖和使用的开源库。可供大家在开发iOS应用时参考，了解业内开发技术趋势和流行技术框架。</p>
+	<p>更多 iOS 开源精选： <a href="https://awehunt.com/?tnid=5af1c0bb7b4fac67bf3af2b5">Awehunt - iOS</a>
+	</p>
+	<br>
+</div>
 
 # 内容
 - [工具](#工具)
@@ -15,7 +20,7 @@
 	- [Pinterest](#pinterest)
 	- [微信](#微信)
 	- [微博](#微博)
-	- [Weibo intl.](#weibo-intl.)
+	- [Weibo intl.](#weibo-intl)
 	- [QQ](#qq)
 	- [QQ International](#qq-international)
 - [摄影与录像](#摄影与录像)
